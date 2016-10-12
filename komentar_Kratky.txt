@@ -1,0 +1,20 @@
+https://github.com/Marekatrix/MIP_zadanie_final
+
+\usepackage{graphicx} 		kvôli vkladaniu obrázkov
+\usepackage[utf8]{inputenc}	kvôli špecifikácii vstupného kódovania(t.j. aby mi správne písal písmená s diakritikou)
+\usepackage[T1]{fontenc}	kvôli zalomeniu slov obsahujúcich znaky s diakritikou
+\usepackage{verbatim}		aby som v prípade pridávania napríklad zdrojového kódu mohol uchova jeho tvar
+\usepackage{cite} 		kvôli bibliografii
+
+Zoznam vyuitıch funkcií (ich pouitie/vıznam je okomentovanı priamo v zdrojovom kóde)
+	Príkazy na definovanie štruktúry dokumentu a obsahu
+	Formátovanie textu na úrovni odstavcov
+	Pouitie zoznamov
+	Vkladanie obrázkov
+	Vkladanie tabuliek
+	Tvorba vzorcov
+ 
+	Bibliografia a citovanie pomocou nástroja BibTeX
+	Vkladanie zdrojovıch kódov
+	
+	

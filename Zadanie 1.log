@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.24)  12 OCT 2016 23:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.24)  12 OCT 2016 23:41
 entering extended mode
 **"./Zadanie 1.tex"
 ("Zadanie 1.tex"
@@ -508,10 +508,6 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks22
 \verbatim@in@stream=\read1
 )
-("C:\Users\mkrat_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 ("C:\Users\mkrat_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -519,18 +515,18 @@ Package: cite 2015/02/27  v 5.5
 ) ("Zadanie 1.aux")
 \openout1 = `"Zadanie 1.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 ("C:\Users\mkrat_000\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pd
 f.mkii"
@@ -602,10 +598,10 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 34.
+(Font)              <5> on input line 33.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 33.
 
 ("C:\Users\mkrat_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
 "
@@ -619,42 +615,42 @@ Underfull \vbox (badness 2158) has occurred while \output is active []
 <Images/obr1.jpg, id=15, 363.60844pt x 274.77657pt>
 File: Images/obr1.jpg Graphic file (type jpg)
  <use Images/obr1.jpg>
-Package pdftex.def Info: Images/obr1.jpg used on input line 82.
+Package pdftex.def Info: Images/obr1.jpg used on input line 81.
 (pdftex.def)             Requested size: 347.12354pt x 262.3276pt.
 
 <Images/obr2.png, id=16, 326.72063pt x 159.59625pt>
 File: Images/obr2.png Graphic file (type png)
  <use Images/obr2.png>
-Package pdftex.def Info: Images/obr2.png used on input line 92.
+Package pdftex.def Info: Images/obr2.png used on input line 91.
 (pdftex.def)             Requested size: 347.12354pt x 169.56084pt.
 
 [3] [4 <./Images/obr1.jpg>] [5 <./Images/obr2.png>] [6]
 <Images/obr3.png, id=36, 299.61937pt x 201.75375pt>
 File: Images/obr3.png Graphic file (type png)
  <use Images/obr3.png>
-Package pdftex.def Info: Images/obr3.png used on input line 174.
+Package pdftex.def Info: Images/obr3.png used on input line 173.
 (pdftex.def)             Requested size: 347.12354pt x 233.76051pt.
 
 [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 189.
+(Font)              <9> on input line 188.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 189.
+(Font)              <6> on input line 188.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./Images/obr3.png>] [9]
-Overfull \hbox (3.3501pt too wide) in paragraph at lines 232--233
+Overfull \hbox (3.3501pt too wide) in paragraph at lines 231--232
 []\T1/cmr/m/n/10 Selecting and eval-u-at-ing var-i-ous com-bi-na-tions of weigh
 ts (where one of weights
  []
 
 [10] ("Zadanie 1.bbl") [11] ("Zadanie 1.aux") ) 
 Here is how much of TeX's memory you used:
- 2672 strings out of 493334
- 35648 string characters out of 3128490
- 104194 words of memory out of 3000000
- 6154 multiletter control sequences out of 15000+200000
+ 2602 strings out of 493334
+ 34706 string characters out of 3128490
+ 103111 words of memory out of 3000000
+ 6087 multiletter control sequences out of 15000+200000
  13624 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,7n,25p,1118b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
