@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{auer2007dbpedia}
+S{\"o}ren Auer, Christian Bizer, Georgi Kobilarov, Jens Lehmann, Richard
+  Cyganiak, and Zachary Ives.
+\newblock Dbpedia: A nucleus for a web of open data.
+\newblock In {\em The semantic web}, pages 722--735. Springer, 2007.
+
+\bibitem{barla2009deriving}
+Michal Barla and M{\'a}ria Bielikov{\'a}.
+\newblock On deriving tagsonomies: Keyword relations coming from crowd.
+\newblock In {\em International Conference on Computational Collective
+  Intelligence}, pages 309--320. Springer, 2009.
+
+\bibitem{brusilovsky2002adaptive}
+Peter Brusilovsky and Mark~T Maybury.
+\newblock From adaptive hypermedia to the adaptive web.
+\newblock {\em Communications of the ACM}, 45(5):30--33, 2002.
+
+\bibitem{cucerzan2007large}
+Silviu Cucerzan.
+\newblock Large-scale named entity disambiguation based on wikipedia data.
+\newblock In {\em EMNLP-CoNLL}, volume~7, pages 708--716, 2007.
+
+\bibitem{fahmi2005c}
+Ismail Fahmi.
+\newblock C-value method for multi-word term extraction.
+\newblock In {\em seminar in Statistics and Methodology}, 2005.
+
+\bibitem{iacobelli2010tell}
+Francisco Iacobelli, Larry Birnbaum, and Kristian~J Hammond.
+\newblock Tell me more, not just more of the same.
+\newblock In {\em Proceedings of the 15th international conference on
+  Intelligent user interfaces}, pages 81--90. ACM, 2010.
+
+\bibitem{ide2007essie}
+Nicholas~C Ide, Russell~F Loane, and Dina Demner-Fushman.
+\newblock Essie: a concept-based search engine for structured biomedical text.
+\newblock {\em Journal of the American Medical Informatics Association},
+  14(3):253--263, 2007.
+
+\bibitem{mihalcea2007wikify}
+Rada Mihalcea and Andras Csomai.
+\newblock Wikify!: linking documents to encyclopedic knowledge.
+\newblock In {\em Proceedings of the sixteenth ACM conference on Conference on
+  information and knowledge management}, pages 233--242. ACM, 2007.
+
+\bibitem{milne2008learning}
+David Milne and Ian~H Witten.
+\newblock Learning to link with wikipedia.
+\newblock In {\em Proceedings of the 17th ACM conference on Information and
+  knowledge management}, pages 509--518. ACM, 2008.
+
+\bibitem{otter2000lost}
+Malcolm Otter and Hilary Johnson.
+\newblock Lost in hyperspace: metrics and mental models.
+\newblock {\em Interacting with computers}, 13(1):1--40, 2000.
+
+\bibitem{pazzani2007content}
+Michael~J Pazzani and Daniel Billsus.
+\newblock Content-based recommendation systems.
+\newblock In {\em The adaptive web}, pages 325--341. Springer, 2007.
+
+\bibitem{vsimko2009improving}
+M~{\v{S}}imko and M~Bielikov{\'a}.
+\newblock Improving search results with lightweight semantic search.
+\newblock In {\em Proc. of the Workshop on Semantic Search, SemSearch}, pages
+  53--54, 2009.
+
+\bibitem{teevan2004perfect}
+Jaime Teevan, Christine Alvarado, Mark~S Ackerman, and David~R Karger.
+\newblock The perfect search engine is not enough: a study of orienteering
+  behavior in directed search.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 415--422. ACM, 2004.
+
+\bibitem{wittek2009improving}
+Peter Wittek, S{\'a}ndor Dar{\'a}nyi, and Chew~Lim Tan.
+\newblock Improving text classification by a sense spectrum approach to term
+  expansion.
+\newblock In {\em Proceedings of the Thirteenth Conference on Computational
+  Natural Language Learning}, pages 183--191. Association for Computational
+  Linguistics, 2009.
+
+\end{thebibliography}
